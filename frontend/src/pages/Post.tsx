@@ -68,7 +68,7 @@ export const Post = () => {
         <AppBar/>
 
         <form onSubmit={publishPost}>
-            <div className="mt-6 mx-40">
+            <div className="mt-6 mx-10">
 
                 <div className="flex justify-center mb-6"><Heading label="Publish A Post"></Heading></div>
 
