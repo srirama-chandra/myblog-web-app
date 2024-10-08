@@ -40,7 +40,7 @@ export const FullBlog = () => {
 
             <div className="mt-8 grid grid-cols-1 lg:grid-cols-12">
 
-                <div className="ml-14 col-span-8 mr-10">
+                <div className="ml-10 col-span-8 mr-10">
                     <div className="border-b pb-2">
                         <Heading label={fullBlogData.title}></Heading>
                     </div>
