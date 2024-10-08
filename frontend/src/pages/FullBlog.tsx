@@ -38,7 +38,7 @@ export const FullBlog = () => {
 
             <AppBar/>
 
-            <div className="mt-8 grid grid-cols-12">
+            <div className="mt-8 grid grid-cols-1 lg:grid-cols-12">
 
                 <div className="ml-14 col-span-8">
                     <div className="border-b pb-2">
