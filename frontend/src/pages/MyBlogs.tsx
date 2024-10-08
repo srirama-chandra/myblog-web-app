@@ -58,9 +58,9 @@ export const MyBlogs = () => {
                 <div>
                     <AppBar/>
                     <div className="mt-8 mb-4 grid grid-cols-12">
-                        <div className="col-span-2"></div>
+                        <div className="col-span-1 lg:col-span-2"></div>
 
-                        <div className="col-span-7">
+                        <div className="col-span-10 lg:col-span-7">
                             <div className="border-b pb-2">
                                 My Blogs
                             </div>
@@ -69,7 +69,7 @@ export const MyBlogs = () => {
                             </div>
                         </div>
 
-                        <div className="col-span-3"></div>
+                        <div className="col-span-1 lg:col-span-3"></div>
                     </div>
                 </div>
 
